@@ -15,9 +15,9 @@
 
 <!-- About Me -->
 
-- 🔬 I’m currently working on **NEXT JS**
+- 🔬 I’m currently working on **NEXT.JS**
 
-- 🌱 I’m currently learning **NEST**
+- 🌱 I’m currently learning **NEXT.JS**
 
 - 💬 Ask me about **React, Web Development**
 
